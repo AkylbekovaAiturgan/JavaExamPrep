@@ -4,7 +4,7 @@ class Media {
         Scanner in=new Scanner(System.in);
         int n = in.nextInt();
         int s = PrintSr(167, 890, 78);
-        System.out.println(s);
+        System.out.println("Media= " + s);
 
 
     }
