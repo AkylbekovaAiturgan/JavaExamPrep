@@ -1,5 +1,4 @@
-import java.util.Scanner;
-class Task2 {
+class Media02 {
     public static void main(String[] args) {
         int s = PrintSr(00, 999, 77);
         System.out.println(s);
