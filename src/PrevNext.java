@@ -1,11 +1,11 @@
 import java.util.Scanner;
-class Task3 {
+class PrevNext {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
         int s = prentNext(n);
         int c = prentPrev(n);
-        System.out.println("The next number for the number " +  n + " is " + s + ".");
+        System.out.println("The next number for the number  " +  n + " is " + s + ".");
         System.out.println("The previous number for the number " +  n + " is " + c + ".");
     }
 
